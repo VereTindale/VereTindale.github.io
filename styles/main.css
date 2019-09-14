@@ -7,4 +7,36 @@ body {
     font-family: 'Indie Flower', cursive;
 }
 
- 
+.heading {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #f9fa0b80;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+.message {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.beach {
+    text-align: center;
+}
+
+.hello {
+    padding-right: 300px;
+    padding-left: 300px;
+}
+

@@ -26,6 +26,9 @@ body {
     float: left;
 }
 
+#nest {
+    float: right;
+}
 h1 {
     text-transform: uppercase;
 }

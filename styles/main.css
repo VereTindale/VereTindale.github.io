@@ -11,11 +11,33 @@ body {
     text-align: center;
 }
 
+.hello {
+    text-align: center;
+}
+
+.Blogtext {
+    text-align: center;
+}
+.sprinttext {
+    text-align: center;
+}
+
+
 h1 {
     text-transform: uppercase;
 }
 
-
+.home{
+  border-radius: 50px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+   background-color: white; 
+  color: black; 
+  border: 2px solid orangered;
+}
+.home:hover {
+    background-color: orangered;
+    color: white;
+}
 ul {
   list-style-type: none;
   margin: 0;
